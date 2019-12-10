@@ -4,5 +4,5 @@ Personal Website of Markus Müller
 # Commands
 ## GIT
 ```git add --all```
-git commit -m "commit message"
-git push -o origin master
+```git commit -m "commit message"```
+```git push -o origin master```
