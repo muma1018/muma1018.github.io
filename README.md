@@ -1,8 +1,4 @@
-# muma1018.github.io
-Personal Website of Markus Müller
+# Personal Website of Markus Müller
+[Here](https://muma1018.github.io/) you can find my personal website.
 
-# Information
-local directory (megaport): C:\github\muma1018.github.io
-
-Link: file:///C:/github/muma1018.github.io/index.html
 
